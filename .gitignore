@@ -1,0 +1,11 @@
+# Android
+android-app/.gradle/
+android-app/local.properties
+android-app/.idea/
+android-app/build/
+*.iml
+
+# Arduino
+*.hex
+*.bin
+*.elf
